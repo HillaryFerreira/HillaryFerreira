@@ -2,10 +2,12 @@
 
  
 <h3> About me: </h3>
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif?cid=ecf05e47vgq7am5lkcwb0cl1twxgv0zxg4bqyrurrz0dqvaz&ep=v1_gifs_related&rid=giphy.gif&ct=g?raw=true" width="450" height="450"/> 
+ 
 I'm a 20-year-old student currently pursuing a degree in Systems Analysis and Development at FACENS. My preferred pronouns are she/her. Alongside my studies, I'm actively engaged at FSH Consulting, where I contribute to meaningful projects and continue to grow as a professional.
 
 <h3>🌐 Education and Work:</h3>
+
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif?cid=ecf05e47vgq7am5lkcwb0cl1twxgv0zxg4bqyrurrz0dqvaz&ep=v1_gifs_related&rid=giphy.gif&ct=g?raw=true" width="350" height="300"/>
 
 - Studying Systems Analysis and Development at <a href="https://www.facens.br">FACENS</a>. With an expected completion date of 12/24, my academic journey involves in-depth exploration of programming, database management, and system design, providing me with a solid foundation to tackle real-world challenges in the field of IT. Excited to leverage this education to contribute meaningfully to future projects and endeavors.
 
