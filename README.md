@@ -6,7 +6,7 @@
 I'm a 20-year-old student currently pursuing a degree in Systems Analysis and Development at FACENS. My preferred pronouns are she/her. Alongside my studies, I'm actively engaged at FSH Consulting, where I contribute to meaningful projects and continue to grow as a professional.
 
 <h3>🌐 Education and Work:</h3>
-- Studying Systems Analysis and Development at [FACENS](https://www.facens.br/). With an expected completion date of 12/24, my academic journey involves in-depth exploration of programming, database management, and system design, providing me with a solid foundation to tackle real-world challenges in the field of IT. Excited to leverage this education to contribute meaningfully to future projects and endeavors.
+- Studying Systems Analysis and Development at <a href="https://www.facens.br">FACENS</a>. With an expected completion date of 12/24, my academic journey involves in-depth exploration of programming, database management, and system design, providing me with a solid foundation to tackle real-world challenges in the field of IT. Excited to leverage this education to contribute meaningfully to future projects and endeavors.
 - Currently working at FSH Consulting, where I am involved in developing insightful .NET reports, crafting efficient SQL queries for SQL Server and Oracle databases, and navigating TOTVS systems—focusing on modules such as procurement, human resources, and various RM modules. This hands-on experience at FSH Consulting has been invaluable, allowing me to contribute effectively to projects and gain practical insights into seamless integration and solution delivery.
 
  <h3>🚀 Passions:</h3>
