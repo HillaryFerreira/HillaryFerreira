@@ -24,6 +24,13 @@ My interests extend beyond the tech world. I find joy in diving into captivating
 ![image](https://github.com/HillaryFerreira/HillaryFerreira/assets/129438048/a3f4d7b4-f6e2-4cd9-b5fd-922dae5ad4f2)
 ![image](https://github.com/HillaryFerreira/HillaryFerreira/assets/129438048/543ae98b-16be-4444-8aea-7f33a98c98b0)
 
+<details>
+  <summary><h3>💛 Status</h3></summary>
+ <div>
+<img align="center" alt="HillaryFerreira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HillaryFerreira&show_icons=true&theme=tokyonight" />
+ <img align="center" alt="HillaryFerreira's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HillaryFerreira&theme=tokyonight" />
+ </div>
+</details>
 
 <h3>✍️ Learning</h3>
 
@@ -41,13 +48,7 @@ My interests extend beyond the tech world. I find joy in diving into captivating
 <a href="https://www.linkedin.com/in/hillary-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 <a href = "https://www.instagram.com/hillaryfp.c/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<details>
-  <summary><h3>💛 Status</h3></summary>
- <div>
-<img align="left" alt="HillaryFerreira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HillaryFerreira&show_icons=true&theme=tokyonight" />
- <img align="center" alt="HillaryFerreira's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HillaryFerreira&theme=tokyonight" />
- </div>
-</details>
+
 
 Feel free to connect with me to discuss technology, share book recommendations, or talk about the latest movie releases! 🌟
 
